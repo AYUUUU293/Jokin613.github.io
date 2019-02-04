@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-04T14:26:39.352Z</updated>
+  <updated>2019-02-04T15:07:54.235Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/02/04/%E6%83%8A%E5%91%86%E4%BA%86%E5%93%B2%E5%AD%A6%E8%BF%99%E4%B9%88%E5%A5%BD/"/>
     <id>http://yoursite.com/2019/02/04/惊呆了哲学这么好/</id>
     <published>2019-02-04T10:12:23.000Z</published>
-    <updated>2019-02-04T14:26:39.352Z</updated>
+    <updated>2019-02-04T15:07:54.235Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,10 @@
     
     </summary>
     
+      <category term="哲学" scheme="http://yoursite.com/categories/%E5%93%B2%E5%AD%A6/"/>
+    
+    
+      <category term="字典 , 哲学" scheme="http://yoursite.com/tags/%E5%AD%97%E5%85%B8-%E5%93%B2%E5%AD%A6/"/>
     
   </entry>
   
